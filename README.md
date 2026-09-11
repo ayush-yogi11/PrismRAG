@@ -32,7 +32,7 @@ sudo apt-get install -y poppler-utils tesseract-ocr
 Clone the repository and install required dependencies:
 
 Bash
-git clone [https://github.com/your-username/PrismRAG.git](https://github.com/your-username/PrismRAG.git)
+git clone (https://github.com/ayush-yogi11/PrismRAG)
 cd PrismRAG
 
 python -m venv venv
